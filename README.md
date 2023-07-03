@@ -6,6 +6,8 @@ I have just finished a Full-Stack (REACT/NODE) 👨‍🎓 training session at t
 
 📫 Mail : benjamin.chaillan-pro@laposte.net
 
+💡 My latest full-stack project is not yet available on github, but you can see some videos on my portfolio (EXTERNATIC).
+
 <!--
 **brrrrrbrrrr/brrrrrbrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
