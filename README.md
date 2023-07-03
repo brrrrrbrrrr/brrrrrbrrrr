@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Benjamin from Lyon 👋
+
+I have just finished a Full-Stack (REACT/NODE) training session at the Wild Code School, and I am looking for a company for a coop training course starting in September.
+
+You can visit my projects online on my Portfolio: http://www.benjamin-chaillan.fr
+
+📫 Mail : benjamin.chaillan-pro@laposte.net
 
 <!--
 **brrrrrbrrrr/brrrrrbrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
